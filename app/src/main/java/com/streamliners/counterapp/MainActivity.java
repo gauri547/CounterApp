@@ -13,17 +13,22 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        // Initializing the binding
 
         b = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(b.getRoot());
-
+         // Handle click events
         setUpEventHandlers();
     }
+    /**
+     * Trigger event handler to listen the action
+     */
 
     private void setUpEventHandlers() {
         b.incQty.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                //To increase quantity
                 incQty();
             }
         });
@@ -31,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
         b.incQty.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                // To decrease quantity
                 decQty();
             }
         });
