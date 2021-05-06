@@ -4,8 +4,6 @@ Task 5.1done!
 I have made an intent based application to do some intent based function.
 download for the application.
 
-## APK download
-[APK](https://github.com/imAtulSharma/Sending-Objects/releases/download/v1.0/app-debug.apk)
 
 ## Previews of the application
 ![image](https://user-images.githubusercontent.com/81371138/116707298-2438a480-a9ec-11eb-849f-b8120a6c284a.png)
