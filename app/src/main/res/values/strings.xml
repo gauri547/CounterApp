@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CounterApp</string>
+    <string name="my_counter">My Counter</string>
+    <string name="decBtn">-</string>
+    <string name="qty">0</string>
+    <string name="incBtn">+</string>
+
+
 </resources>
