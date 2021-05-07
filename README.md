@@ -1,6 +1,9 @@
 # CounterApp
 
+I made an intent based application to do some intent based functions.
+
 ## Previews
+
 
 
 
