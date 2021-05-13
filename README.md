@@ -14,6 +14,11 @@ I have made counter app which has following features:
 
 ![image](https://user-images.githubusercontent.com/81371138/117545246-93dd0e00-b042-11eb-8630-addd5cf9d0ed.png)
 
+![image](https://user-images.githubusercontent.com/81371138/118105317-db281d80-b3f9-11eb-98a2-c4cb12f1f5c0.png)
+
+![image](https://user-images.githubusercontent.com/81371138/118105351-e67b4900-b3f9-11eb-996b-f34f11f5a495.png)
+
+
 
 ## APK
 
