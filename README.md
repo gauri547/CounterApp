@@ -19,11 +19,6 @@ I have made counter app which has following features:
 ![image](https://user-images.githubusercontent.com/81371138/118105351-e67b4900-b3f9-11eb-996b-f34f11f5a495.png)
 
 
-
 ## APK
 
 [https://github.com/gauri547/CounterApp/releases/download/v1/app-debug.apk](https://github.com/gauri547/CounterApp/releases/download/v1/app-debug.apk)
-
-
-
-
